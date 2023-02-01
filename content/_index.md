@@ -3,4 +3,4 @@ title: BNB Lore Wiki.
 enableToc: false
 ---
 
-[[Steampunk Tavern & Inn]]
+[[BNB-Survival/Steampunk Tavern & Inn]]

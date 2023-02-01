@@ -6,7 +6,7 @@ Original Source: 1.19 SMP concluding 18/05/22
 Original Builder: Nicolas Aguayo Perez (blaze_mex)
 
 Image Of Original State:
-![[Pasted image 20230202022053.png]]
+![[BNB-Survival/Pasted image 20230202022053.png]]
 
 Current Coordinates: -1600, 250
 Image of Current State:
