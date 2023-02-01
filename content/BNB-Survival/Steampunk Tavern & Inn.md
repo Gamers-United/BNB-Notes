@@ -1,3 +1,8 @@
+
+---
+title: "Steampunk Tavern & Inn"
+---
+
 Original Source: 1.19 SMP concluding 18/05/22
 Original Builder: Nicolas Aguayo Perez (blaze_mex)
 
