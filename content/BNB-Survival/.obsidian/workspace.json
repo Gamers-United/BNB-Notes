@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "25f6f544fb377282",
+    "type": "split",
+    "children": [
+      {
+        "id": "277c89309ae8f208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc6cbf8d46d5b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steampunk Tavern & Inn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ceeb9d7b58d39797",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee68815e67b50f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f7463d8546d362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdb7c6522535e8a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be195512da222882",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b24f7274369e35d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb2ef3d23d911fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ff0e2ed6ebd903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Steampunk Tavern & Inn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cbc58c97dfce953",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Steampunk Tavern & Inn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7dc5fbaa8a09dea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75a465c45cb37354",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Steampunk Tavern & Inn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1fc6cbf8d46d5b2d",
+  "lastOpenFiles": [
+    "BNB-Survival/Pasted image 20230202022053.png.md",
+    "Steampunk Tavern & Inn.md",
+    "_index.md",
+    "BNB-Survival/Steampunk Tavern & Inn.md",
+    "BNB-Survival/Pasted image 20230202022053.png",
+    "Untitled.md"
+  ]
+}
