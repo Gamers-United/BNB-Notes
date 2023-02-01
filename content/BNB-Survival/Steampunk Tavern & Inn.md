@@ -5,7 +5,7 @@ title: "Steampunk Tavern & Inn"
 ## Original State
 -  Source: 1.19 SMP concluding 18/05/22
 -  Builder: Nicolas Aguayo Perez (blaze_mex)
-![[nico_house_og.png]]
+![](nico_house_og.png)
 ## Current State
 - Current Coordinates: -1600, 250
 
