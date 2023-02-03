@@ -7,10 +7,10 @@ title: "Steampunk Tavern & Inn"
 -  Builder: Nicolas Aguayo Perez (blaze_mex)
 -  Coordinates: 2700, -3000
 -  Township: Nico's Base
-![](BNB-Survival/nico_house_og.png)
+![](BNB-Survival/images/nico_house_og.png)
 ## Current State
 -  Coordinates: -1600, 250
-![](BNB-Survival/nico_house_current.png)
+![](BNB-Survival/images/nico_house_current.png)
 ## History
 The Steampunk Tavern & Inn, built by blaze_mex, was first established in the early days of Minecraftia. Nicolas, a skilled builder and engineer, saw the need for a unique and welcoming establishment for travelers and locals alike. He combined his love for technology and Victorian aesthetics to create a one-of-a-kind building that still (partially) stands to this day.
 
