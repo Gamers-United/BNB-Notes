@@ -3,7 +3,7 @@ title: "Steampunk Tavern & Inn"
 ---
 
 ## Original State
--  Source: 1.19 SMP concluding 18/05/22
+-  Source: 1.18 SMP concluding 18/05/22
 -  Builder: Nicolas Aguayo Perez (blaze_mex)
 -  Coordinates: 2700, -3000
 -  Township: Nico's Base
