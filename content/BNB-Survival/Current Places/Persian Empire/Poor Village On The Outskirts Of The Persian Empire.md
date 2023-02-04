@@ -2,7 +2,7 @@
 title: "Poor Village On The Outskirts Of The Persian Empire"
 ---
 -  Coordinates: -2250, -700
-![](BNB-Survival/images/Pasted%20image%2020230203235625.png)
+![](BNB-Survival/images/small_village_on_the_outskirts_of_the_persian_empire.png)
 # Description
 Poor village on the outskirts of the Persian Empire is a small, isolated community nestled on the side of a snowy mountain. The majority of the buildings in the town are made of wood, giving it a warm and homely feel despite its rough exterior. The most prominent structures in the village are the Blackstone tower and the grain silo, which rise above the rest of the houses and provide a sense of stability and security. Despite these sturdy buildings, there is a collapsed house that sits at the edge of the village, serving as a reminder of the harsh conditions that the residents face. The village overlooks the town of Danada, visible across the mountain crest, offering a glimpse of the wider world beyond the village's borders.
 
