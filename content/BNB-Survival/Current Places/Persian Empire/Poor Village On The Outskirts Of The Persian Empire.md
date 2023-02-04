@@ -6,7 +6,7 @@ title: "Poor Village On The Outskirts Of The Persian Empire"
 # Description
 Poor village on the outskirts of the Persian Empire is a small, isolated community nestled on the side of a snowy mountain. The majority of the buildings in the town are made of wood, giving it a warm and homely feel despite its rough exterior. The most prominent structures in the village are the Blackstone tower and the grain silo, which rise above the rest of the houses and provide a sense of stability and security. Despite these sturdy buildings, there is a collapsed house that sits at the edge of the village, serving as a reminder of the harsh conditions that the residents face. The village overlooks the town of Danada, visible across the mountain crest, offering a glimpse of the wider world beyond the village's borders.
 
-# Note 1
+# Persian Lore Part 1
 Morbidity spread across the crowds of the hungry. The humans were ferocious, wilder than the animals they hunted themselves.
 
 The famine reigned across the Persian Empire, causing chaos to span across the land.
@@ -27,3 +27,7 @@ With this recipe, Sam single-handedly had helped King Ardeshir III to save the h
 But King Ardeshir III knew that this wouldn't be his only challenge.
 
 Something was coming. An evil would come...
+
+# "War"
+A threat of war daren't impel the perception to appertain disadvantageous through the mind attributed to a king unless countered by an opportunity to conquer
+-King Ardeshir III
