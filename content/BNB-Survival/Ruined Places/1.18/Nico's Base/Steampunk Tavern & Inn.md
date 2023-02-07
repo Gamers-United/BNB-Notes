@@ -11,7 +11,7 @@ title: "Steampunk Tavern & Inn"
 ## Current State
 -  Coordinates: -1600, 250
 ![](BNB-Survival/images/nico_house_current.png)
-## History
+# History
 The Steampunk Tavern & Inn, built by blaze_mex, was first established in the early days of Minecraftia. Nicolas, a skilled builder and engineer, saw the need for a unique and welcoming establishment for travelers and locals alike. He combined his love for technology and Victorian aesthetics to create a one-of-a-kind building that still (partially) stands to this day.
 
 The tavern was built using cutting-edge technology of the time, with a large copper roof and calcite walls. The walls were made of calcite, a rare mineral that was abundant in the area, which was known for its durability and beauty. The copper roof was a work of art, featuring intricate designs that caught the eye of everyone who saw it.
